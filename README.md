@@ -1,7 +1,7 @@
 # iMSteam RU edition
 
 # RU
-![image](https://github.com/daswer123/iMSteam-RU/assets/22278673/f2e319ab-3d73-43b3-a170-2a0e164c6436)
+![image](https://i.imgur.com/2J2KaMp.jpeg)
 
 Добавляет пиратские торрент трекеры на сайт Steam. Позволяет быстро найти игру на пиратских ресурсах.
 
